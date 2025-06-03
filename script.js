@@ -111,7 +111,7 @@ const checkGameOver = setInterval(() => {
             floor3.style.left = `${floorPosition3}px`;
 
             document.getElementById("text-start").style.color = "black";
-            document.getElementById("text-start").innerHTML = '<img src="./img/Game-Over-03-06-2025.png" alt="Game Over" style="width:200px;">';
+            document.getElementById("text-start").innerHTML = '<img src="./img/Game-Over-03-06-2025.png" alt="Game Over" style="width:800px;">';
 
             function stopAudioStart(){
                 audioStart.pause();
