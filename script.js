@@ -70,7 +70,7 @@ const jump = () => {
 document.addEventListener('keydown', jump);
 
 
-
+/*================ Código para reviver ===================*/
 
 
 
